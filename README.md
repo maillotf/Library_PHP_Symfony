@@ -2,7 +2,7 @@
 
 ## About
 
-https://medium.com/@flavienmaillot/introduction-%C3%A0-lapi-rest-avec-symfony-6-db-sous-docker-5bee1c2d1745
+https://flavienmaillot.medium.com/introduction-à-lapi-rest-avec-symfony-6-db-sous-docker-5bee1c2d1745
 
 ## Install et start the project
 
